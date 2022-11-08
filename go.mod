@@ -1,13 +1,23 @@
 module github.com/tildae/vkgo
 
 go 1.17
+
 retract (
-	v0.1.9
-	v0.1.8
-	v0.1.7
-	v0.1.6
-	v0.1.5
-	v0.1.4
+	v0.1.9 // Wipe
+	v0.1.8 // Wipe
+	v0.1.7 // Wipe
+	v0.1.6 // Wipe
+	v0.1.5 // Wipe
+	v0.1.4 // Wipe
+	v0.1.3 // Wipe
+	v0.1.2 // Wipe
+	v0.1.0 // Wipe
+	v0.0.6 // Wipe
+	v0.0.5 // Wipe
+	v0.0.4 // Wipe
+	v0.0.3 // Wipe
+	v0.0.2 // Wipe
+	v0.0.1 // Wipe
 )
 
 require (
