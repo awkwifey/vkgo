@@ -1,6 +1,14 @@
 module github.com/tildae/vkgo
 
 go 1.17
+retract (
+	v0.1.9
+	v0.1.8
+	v0.1.7
+	v0.1.6
+	v0.1.5
+	v0.1.4
+)
 
 require (
 	github.com/gofiber/fiber/v2 v2.35.0
